@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Narmadhai-M
-- 👀 I’m interested in  programming
-- 🌱 I’m currently learning selenium & data science ....
+- 👀 Open to work in the domain Data Science and Data Anlayst
+- Skill -Python,Excel,Sql,Pandas,numpy,pivot table,power query,Power BI
+- currently preparing for PL300 exam
 - 📫 How to reach me  email-narmadhai2605@gmail.com
 
 <!---
